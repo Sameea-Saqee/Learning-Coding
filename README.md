@@ -1,4 +1,4 @@
 # Learning-Coding
-This is my Second Git Repository.
+This is my First Git Repository.
 <br>
 Author - Sameea (Learning coding)
